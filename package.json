@@ -1,0 +1,12 @@
+{
+  "name": "my-ember-pod-resolver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Arnaud PEZEL <arnaud@apyx.fr> (http://www.apyx.fr)",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
